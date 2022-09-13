@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my first git file.this is server change.
+=======
+This is my first git file.this is dev change.
+>>>>>>> dev
